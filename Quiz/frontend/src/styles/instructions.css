@@ -1,0 +1,57 @@
+.tileContainer{
+height: 202px;
+width: 572px;
+background-color: white;
+margin-right: 9px;
+margin-bottom: 30px;
+margin-left: 350px;
+margin-top: 172px;
+box-shadow: 0 3px 6px grey;
+float: left;
+}
+.question{
+  margin-top: 5%;
+    margin-left: 5%;
+}
+.options{
+  margin-left: 26px;
+    margin-top: 20px;
+}
+.numb{
+  margin-top: 135px;
+    position: absolute;
+    margin-left: 887px;
+}
+.tileContainer1 {
+  height: 240px;
+  width: 572px;
+  background-color: white;
+  margin-right: -10px;
+  margin-bottom: 30px;
+  margin-left: 140px;
+  margin-top: 41px;
+  box-shadow: 0 3px 6px grey;
+  float: left;
+}
+.yoption{
+  margin-left: 26px;
+    margin-top: 20px;
+}
+.coptions{
+  margin-left: 26px;
+    margin-top: 2px;
+}
+.ccoptions{
+  
+  margin-top: -27px;
+  margin-left: 403px;
+  position:absolute;
+  color:darkviolet;
+
+}
+.score{
+  color: firebrick;
+    margin-left: 160px;
+    font-family: serif;
+    font-size: -webkit-xxX-large;
+}
